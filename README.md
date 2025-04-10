@@ -12,7 +12,7 @@ This Python project scrapes book information from [BooksToScrape.com](http://boo
 
 1.  **Clone the repository (if you've uploaded it to GitHub):**
     ```bash
-    git clone <(https://github.com/493g/Book-Data-Scraper)>
+    git clone https://github.com/493g/Book-Data-Scraper
     cd BOOKS_TO_SCRAPE
     ```
 
